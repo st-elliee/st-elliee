@@ -1,6 +1,6 @@
 # Hi, I'm Elisavet 👋
 
-Electrical & Computer Engineering student at the Aristotle University of Thessaloniki (expected graduation: April 2027), interested in **AI/ML** and **software engineering**.
+Electrical & Computer Engineering student at the Aristotle University of Thessaloniki, interested in **AI/ML** and **software engineering**.
 
 I like building complete, working systems end to end, from the database to the UI to deployment. I've built and shipped full-stack applications for real clients.
 
