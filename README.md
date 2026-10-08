@@ -19,4 +19,4 @@ I like building complete, working systems end to end, from the database to the U
 
 ## Contact
 
-📧 elisavetstou@gmail.com
+   📧 elisavetstou@gmail.com · [LinkedIn](https://www.linkedin.com/in/elisavet-stougiannou)
