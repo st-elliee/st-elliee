@@ -12,10 +12,10 @@ I like building complete, working systems end to end, from the database to the U
 
 ## Tech
 
-**Languages:** Python, TypeScript, SQL
-**Backend:** FastAPI, MySQL
-**Frontend:** React, Vite
-**ML:** PyTorch, scikit-learn, NumPy, Matplotlib
+- **Languages:** Python, TypeScript, SQL
+- **Backend:** FastAPI, MySQL
+- **Frontend:** React, Vite
+- **ML:** PyTorch, scikit-learn, NumPy, Matplotlib
 
 ## Contact
 
